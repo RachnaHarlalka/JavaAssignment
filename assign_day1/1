@@ -1,0 +1,20 @@
+Difference between Compilers and interpreters:
+
+Compiler :
+
+1.Compiler scans the whole program in one go.	                                     
+2.As it scans the code in one go, the errors (if any) are shown at the end together.	
+3.Main advantage of compilers is it’s execution time.	
+4.It converts the source code into object code.
+5.It does not require source code for later execution.
+6.Eg.	C, C++, C# etc.	
+
+Interpreters : 
+
+Interpreter
+1.Translates program one statement at a time.
+2.Considering it scans code one line at a time, errors are shown line by line.
+3.Due to interpreters being slow in executing the object code, it is preferred less.
+4.It does not convert source code into object code instead it scans it line by line
+5.It requires source code for later execution.
+6.Eg.Python, Ruby, Perl, SNOBOL, MATLAB, etc.
