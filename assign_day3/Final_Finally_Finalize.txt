@@ -1,0 +1,16 @@
+Difference Between final, finally and finalize :
+
+Final :
+ 1) Final is a "Keyword" and "access modifier" in Java.
+ 2) Final is a keyword applicable to classes, variables and methods.
+ 3) Final method is executed upon its call.
+
+Finally :
+ 1) Finally is a "block" in Java.
+ 2) Finally is a block that is always associated with try and catch block.
+ 3) "Finally" block executes just after the execution of"try-catch" block.
+
+Finalize :
+ 1) Finalize is a "method" in Java.
+ 2) Finalize() is a method applicable to objects.
+ 3) Finalize() method executes just before the destruction of the object.
